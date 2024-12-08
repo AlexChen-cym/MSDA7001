@@ -16,7 +16,7 @@ This is a course project for Group G05 in MSDA7001, aimed at studying the social
 
 ## Dynamic_Social_Network_Analysis_GOT.ipynb
 - This is the **main program** of the project after organization.
-- To run it, you need to **download with all the other folders in the same path expect source folder**.
+- To run it, you need to **download with all the other folders in the same path except source folder**.
 - Its output results are the main findings displayed in the presentation and report.
 - Content outside the report and its corresponding code are not included here but are stored in the **source** folder.
 
@@ -34,3 +34,4 @@ This folder stores the **result files** from code execution:
 ## source
 - This folder contains the exploratory attempts and the original version of the output results for each member's respective part.
 - These are not the formal results used for the report and can be considered as appendices.
+- The code in this folder does not affect the operation of the main program but can serve as supplementary content.
