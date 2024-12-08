@@ -14,6 +14,9 @@ Group members:
 ## Intro
 This is a course project for Group G05 in MSDA7001, aimed at studying the social network of characters in the Game of Thrones dataset.
 
+## Dynamic_Social_Network_Analysis_GOT.zip
+Contains all the following files and folders for easy downloading and running.
+
 ## Dynamic_Social_Network_Analysis_GOT.ipynb
 - This is the **main program** of the project after organization.
 - To run it, you need to **download with all the other folders in the same path except source folder**.
