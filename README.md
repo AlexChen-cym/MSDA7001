@@ -16,9 +16,9 @@ This is a course project for Group G05 in MSDA7001, aimed at studying the social
 
 ## Dynamic_Social_Network_Analysis_GOT.ipynb
 - This is the **main program** of the project after organization.
-- To run it, you need to **download with all the other folders in the same path except source folder**.
+- To run it, you need to **download with all the other folders** in the same path except _source_ folder.
 - Its output results are the main findings displayed in the presentation and report.
-- Content outside the report and its corresponding code are not included here but are stored in the **source** folder.
+- Content outside the report and its corresponding code are not included here but are stored in the _source_ folder.
 
 ## folder: raw/
 - This folder contains the **raw data**, including character interaction data for 1-5 books.
