@@ -16,7 +16,7 @@ This is a course project for Group G05 in MSDA7001, aimed at studying the social
 
 ## Dynamic_Social_Network_Analysis_GOT.ipynb
 - This is the **main program** of the project after organization.
-- To run it, you need to **download with all the other folders in the same path**.
+- To run it, you need to **download with all the other folders in the same path expect source folder**.
 - Its output results are the main findings displayed in the presentation and report.
 - Content outside the report and its corresponding code are not included here but are stored in the **source** folder.
 
